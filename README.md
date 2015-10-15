@@ -22,11 +22,13 @@ hosted on company SharePoint server so that http:// access would be possible.
 * The toolbox should have a "clean" or minimilstic design in order to appeal 
 to non-tech savvy employees as to not be overwhelming and instead be inviting 
 in order to encourage use.
+
 #### Implementation Approach
-With the above restrictions in mind, the toolkox was designed from scratch in 
+With the above restrictions in mind, the toolbox was designed from scratch in 
 HTML, with some CSS for styling. Eventually, more features were added thanks 
-to HTML5 features and Javascript/JQuery. Spoiler alert, it worked! 
-## Features
+to HTML5 features and Javascript/JQuery. Spoiler alert, it worked!  
+
+#### Features
 * Fixed header populated with important resource URLs, some web address, some 
 intranet address, some network folder addresses. 
     * JS/JQquery was added to detect the browser being used and present the 
