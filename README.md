@@ -2,7 +2,7 @@
 Intranet toolkit made to simplify access to internal resources scattered across
 the network by bringing together most commonly used links/resources.  
 
-TODO: Scrub through source code and redacting any confidential information from
+TODO: Scrub through source code and redact any confidential information from
 previous employer before uploading to git.
 
 ## Purpose
@@ -16,7 +16,7 @@ they exist.
 * Since the toolbox would contain potentially confidential information, it 
 would need to be accessible within the company intranet ONLY. 
 * Due to lack of access rights to network servers and settings, the toolbox 
-would need to be as "barebones" as possible since server-side interpretor would 
+would need to be as "barebones" as possible since server-side interpreter would 
 not be an option. All files for the toolkit would be loaded in a browser and 
 hosted on company SharePoint server so that http:// access would be possible. 
 * The toolbox should have a "clean" or minimilstic design in order to appeal 
@@ -60,5 +60,5 @@ scenes. The background page was loaded and the HTML was scraped with a
 JS/Jquery script to find the domain user info that would populate in the page. 
 The user info was then passed back into the toolbox to be parsed and displayed
 along with an image for each user from the corporate directory. User detection
-was not used as a security feature, but instead was a just a fun, personalized
+was not used as a security feature, but instead was just a fun, personalized
 touch for each user.
